@@ -1,1 +1,1 @@
-host: "mysql-{{environment}}.expensemind.online"
+host: "mysql-dev.expensemind.online"
