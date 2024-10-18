@@ -53,3 +53,4 @@
     daemon_reload: true
     name: backend.service
     state: restarted
+    enabled: true
