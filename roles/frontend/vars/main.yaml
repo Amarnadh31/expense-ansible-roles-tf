@@ -1,3 +1,3 @@
-Backend_host: backend.expensemind.online
+Backend_host: backend.app-dev.expensemind.online
 app_location : /usr/share/nginx/html
 component: frontend

@@ -1,4 +1,4 @@
-- name: backend-server setup
+- name: "configure {{ component }} setup"
   hosts: all
   become: yes
   vars_files:
